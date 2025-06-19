@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Cre4T3Tiv3/llm-prompt-debugger" target="_blank">
-    <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/llm-prompt-debugger/main/docs/assets/llm_prompt_debugger_v0.1.0.png" alt="LLM Prompt Debugger social preview" width="640"/>
+    <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/llm-prompt-debugger/main/docs/assets/llm_prompt_debugger_v0.1.0.jpeg" alt="LLM Prompt Debugger social preview" width="640"/>
   </a>
 </p>
 
