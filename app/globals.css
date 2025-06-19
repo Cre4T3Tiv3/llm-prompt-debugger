@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.gradient-text-fix {
+  line-height: 1.25;
+  padding-bottom: 0.1rem;
+}
+
+@media (min-width: 1024px) {
+  .prompt-history-sticky {
+    position: sticky;
+    top: 2rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    border-radius: 0.5rem;
+  }
+}
+
+@keyframes shake {
+  0% {
+    transform: translateX(0);
+  }
+
+  25% {
+    transform: translateX(-4px);
+  }
+
+  50% {
+    transform: translateX(4px);
+  }
+
+  75% {
+    transform: translateX(-4px);
+  }
+
+  100% {
+    transform: translateX(0);
+  }
+}
+
+.animate-shake {
+  animation: shake 0.3s ease-in-out;
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+.fade-in {
+  animation: fade-in 0.25s ease-in-out;
+}

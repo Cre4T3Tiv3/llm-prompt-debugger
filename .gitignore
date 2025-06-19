@@ -1,0 +1,52 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build
+.next/
+out/
+dist/
+coverage/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# VS Code
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Misc
+*.local
+*.swp
+*.swo
+
+# Prettier / Lint cache
+.prettiercache
+
+# IDE / Editor
+.idea/
+*.iml
+
+# MacOS ._ files
+**/._*
+
+# TypeScript
+*.tsbuildinfo
+
+# Export artifacts
+*.zip
+
+# npm (using pnpm)
+package-lock.json
