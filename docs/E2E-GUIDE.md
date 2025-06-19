@@ -4,7 +4,7 @@ This guide walks you through how to set up and use **LLM Prompt Debugger** — a
 
 ---
 
-## 📋 Prerequisites
+## Prerequisites
 
 Before getting started, ensure the following:
 
@@ -17,7 +17,7 @@ Before getting started, ensure the following:
 
 ---
 
-## 🚀 1. Installation
+## 1. Installation
 
 Clone the repo and install dependencies using `pnpm`:
 
@@ -37,7 +37,7 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## 🔐 2. Configure API Keys
+## 2. Configure API Keys
 
 Create a `.env.local` file in the project root and add your keys:
 
@@ -50,7 +50,7 @@ CLAUDE_API_KEY=sk-ant-...
 
 ---
 
-## 🧠 3. Choose a Model and Enter a Prompt
+## 3. Choose a Model and Enter a Prompt
 
 1. Select a model (OpenAI, Claude, or Ollama) using the dropdown
 2. Type your prompt into the input field
@@ -58,7 +58,7 @@ CLAUDE_API_KEY=sk-ant-...
 
 ---
 
-## 🏷️ 4. Tagging Your Prompt
+## 4. Tagging Your Prompt
 
 Use the tagging interface below each response to label it:
 
@@ -70,7 +70,7 @@ Use the tagging interface below each response to label it:
 
 ---
 
-## 🗃️ 5. Working with Prompt History
+## 5. Working with Prompt History
 
 All prompts are saved to `localStorage` in your browser under the key:
 
@@ -86,7 +86,7 @@ This allows you to:
 
 ---
 
-## 📤 6. Exporting Your Results
+## 6. Exporting Your Results
 
 Click the **Export** button to download your prompt history:
 
@@ -95,7 +95,7 @@ Click the **Export** button to download your prompt history:
 
 ---
 
-## 🧪 7. Advanced Tips
+## 7. Advanced Tips
 
 ### Simulate a Session
 
@@ -125,7 +125,7 @@ Try giving your prompt a tone direction (e.g., "make this funny" or "respond lik
 
 ---
 
-## ✅ Done!
+## Done!
 
 You’ve now got **LLM Prompt Debugger** up and running.
 
@@ -139,7 +139,7 @@ Use it to:
 
 ---
 
-## 🧾 License
+## License
 
 MIT © 2025 [@Cre4T3Tiv3](https://github.com/Cre4T3Tiv3)
 

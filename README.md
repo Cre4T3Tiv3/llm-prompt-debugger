@@ -5,7 +5,7 @@
 </p>
 
 <p align="center"><em>
-🧠 A developer-first UI for testing, tagging, and exporting LLM prompts — with built-in support for OpenAI, Claude, and Ollama.
+A developer-first UI for testing, tagging, and exporting LLM prompts — with built-in support for OpenAI, Claude, and Ollama.
 </em></p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 ---
 
-## 🚀 About
+## About
 
 **LLM Prompt Debugger** is a polished playground for evaluating and labeling LLM outputs.
 
@@ -42,7 +42,7 @@ Features:
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 
 > 💡 Requires `Node.js 18+` and [`pnpm`](https://pnpm.io)
 
@@ -65,7 +65,7 @@ Visit: [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 📦 Lockfile Strategy
+## Lockfile Strategy
 
 This project uses a `pnpm-lock.yaml` file to ensure **deterministic installs** across contributors and CI environments.
 
@@ -75,7 +75,7 @@ This project uses a `pnpm-lock.yaml` file to ensure **deterministic installs** a
 
 ---
 
-## ✨ Tagging System
+## Tagging System
 
 Apply semantic and stylistic tags to each prompt-response pair.
 
@@ -88,7 +88,7 @@ Custom tags are supported via input field.
 
 ---
 
-## 📤 Exporting
+## Exporting
 
 Export history to:
 
@@ -99,7 +99,7 @@ Export history to:
 
 ---
 
-## 🔐 Model Support
+## Model Support
 
 | Provider  | Example Model     | Usage Notes               |
 | --------- | ----------------- | ------------------------- |
@@ -111,7 +111,7 @@ Set these API keys in `.env.local`
 
 ---
 
-## 📓 End-to-End Usage Guide
+## End-to-End Usage Guide
 
 Looking to test prompts from start to finish?
 
@@ -121,7 +121,7 @@ See the full walkthrough for testing, tagging, exporting, and sharing prompts ac
 
 ---
 
-## 📦 Deployment
+## Deployment
 
 To deploy statically:
 
@@ -134,7 +134,7 @@ Supports Vercel, Netlify, Docker, and self-hosting.
 
 ---
 
-## 🧑‍💻 Contributing
+## Contributing
 
 PRs are welcome! Open an issue or discussion to propose ideas.
 
@@ -142,7 +142,7 @@ See [`CONTRIBUTOR.md`](./CONTRIBUTOR.md) for setup and guidelines.
 
 ---
 
-## 🧾 License
+## License
 
 MIT © 2025 [@Cre4T3Tiv3](https://github.com/Cre4T3Tiv3)
 

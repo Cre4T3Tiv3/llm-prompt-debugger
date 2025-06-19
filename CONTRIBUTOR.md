@@ -4,7 +4,7 @@
 
 ---
 
-## 📦 Project Structure
+## Project Structure
 
 ```
 llm-prompt-debugger/
@@ -73,7 +73,7 @@ llm-prompt-debugger/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 git clone https://github.com/Cre4T3Tiv3/llm-prompt-debugger.git
@@ -96,7 +96,7 @@ pnpm dev
 
 ---
 
-## 🧪 Local Dev Tips
+## Local Dev Tips
 
 - This is a **Next.js 14** project using the `app/` directory structure.
 - TailwindCSS is used for styling.
@@ -117,7 +117,7 @@ localStorage.setItem(
 
 ---
 
-## ✅ Code Standards
+## Code Standards
 
 - TypeScript with `"strict": true` enforced via `tsconfig.json`
 - TailwindCSS utility-first styling — no custom classes unless justified
@@ -132,7 +132,7 @@ pnpm tsc --noEmit   # TypeScript type check
 
 ---
 
-## 🧾 Commit Conventions
+## Commit Conventions
 
 Follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/):
 
@@ -147,7 +147,7 @@ Follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/):
 
 ---
 
-## 🧠 Supported LLMs
+## Supported LLMs
 
 | Provider  | Model Name        | API Required        |
 | --------- | ----------------- | ------------------- |
@@ -157,7 +157,7 @@ Follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/):
 
 ---
 
-## 🧩 Feature Contributions
+## Feature Contributions
 
 We welcome contributions for:
 
@@ -170,7 +170,7 @@ Open a discussion if you're exploring a larger feature or integration.
 
 ---
 
-## 🤝 How to Contribute
+## How to Contribute
 
 1. Fork this repo
 2. Create a new feature branch
@@ -181,7 +181,7 @@ Open a discussion if you're exploring a larger feature or integration.
 
 ---
 
-## 📜 License
+## License
 
 MIT © 2025 [@Cre4T3Tiv3](https://github.com/Cre4T3Tiv3)
 
