@@ -5,7 +5,7 @@
 </p>
 
 <p align="center"><em>
-A developer-first UI for testing, tagging, and exporting LLM prompts — with built-in support for OpenAI, Claude, and Ollama.
+A developer-first UI for testing, tagging, and exporting LLM prompts. With built-in support for OpenAI, Claude, and Ollama.
 </em></p>
 
 <p align="center">
