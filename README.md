@@ -30,21 +30,21 @@ A developer-first UI for testing, tagging, and exporting LLM prompts. With built
 
 ## About
 
-**LLM Prompt Debugger** is a polished playground for evaluating and labeling LLM outputs.
+**LLM Prompt Debugger** is a playground for evaluating and labeling LLM outputs.
 
 Features:
 
-- 🎛️ Prompt input + response viewing
-- 🧩 Model selection (OpenAI, Claude, Ollama)
-- 🏷️ Tagging UI for prompt categorization
-- 📤 JSON + Markdown export support
-- 🧪 Hotkey: `Cmd+Enter` or `Ctrl+Enter` to run
+- Prompt input + response viewing
+- Model selection (OpenAI, Claude, Ollama)
+- Tagging UI for prompt categorization
+- JSON + Markdown export support
+- Hotkey: `Cmd+Enter` or `Ctrl+Enter` to run
 
 ---
 
 ## Getting Started
 
-> 💡 Requires `Node.js 18+` and [`pnpm`](https://pnpm.io)
+> ℹ️ Requires `Node.js 18+` and [`pnpm`](https://pnpm.io)
 
 If you don’t have `pnpm` installed:
 
@@ -69,9 +69,9 @@ Visit: [http://localhost:3000](http://localhost:3000)
 
 This project uses a `pnpm-lock.yaml` file to ensure **deterministic installs** across contributors and CI environments.
 
-- ✅ Use `pnpm` to install dependencies and preserve the lockfile
-- ⚠️ If you prefer `npm` or `yarn`, delete `pnpm-lock.yaml` before running `install`
-- 💡 **Officially supported**: `pnpm` (fast, efficient, and CI-friendly)
+- Use `pnpm` to install dependencies and preserve the lockfile
+- If you prefer `npm` or `yarn`, delete `pnpm-lock.yaml` before running `install`
+- **Officially supported**: `pnpm` (fast, efficient, and CI-friendly)
 
 ---
 
@@ -92,10 +92,10 @@ Custom tags are supported via input field.
 
 Export history to:
 
-- ✅ JSON for programmatic analysis
-- ✅ Markdown for docs or knowledge sharing
+- JSON for programmatic analysis
+- Markdown for docs or knowledge sharing
 
-> 🧠 Markdown output is grouped by model and time-stamped
+> ℹ️ Markdown output is grouped by model and time-stamped
 
 ---
 
@@ -117,7 +117,7 @@ Looking to test prompts from start to finish?
 
 See the full walkthrough for testing, tagging, exporting, and sharing prompts across supported LLM providers:
 
-➡️ [E2E-GUIDE.md](./docs/E2E-GUIDE.md)
+[E2E-GUIDE.md](./docs/E2E-GUIDE.md)
 
 ---
 
@@ -154,6 +154,6 @@ This project includes some development dependencies with upstream deprecation wa
 
 For detailed context and updates:
 
-➡️ [KNOWN-WARNINGS.md](./docs/KNOWN-WARNINGS.md)
+[KNOWN-WARNINGS.md](./docs/KNOWN-WARNINGS.md)
 
 ---
