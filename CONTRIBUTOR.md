@@ -90,7 +90,7 @@ pnpm dev
 >
 > - First, delete the existing `pnpm-lock.yaml` file.
 > - Then run your package manager’s install (`npm install` or `yarn install`) to regenerate a compatible lockfile (`package-lock.json` or `yarn.lock`).
-> - ✅ Be sure to **update `.gitignore`** to ignore lockfiles from unused package managers (e.g., add `package-lock.json` if using `yarn`, or vice versa).
+> - ⚠️ Be sure to **update `.gitignore`** to ignore lockfiles from unused package managers (e.g., add `package-lock.json` if using `yarn`, or vice versa).
 >
 > For best compatibility and clean CI, we recommend sticking with **pnpm** unless you have a specific reason not to.
 
@@ -161,10 +161,10 @@ Follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/):
 
 We welcome contributions for:
 
-- 🔌 Model plugin support
-- 🧠 Configurable UI for local LLMs
-- 🧪 Prompt input validation tooling
-- 📤 New export options (e.g., PDF, Notion)
+- Model plugin support
+- Configurable UI for local LLMs
+- Prompt input validation tooling
+- New export options (e.g., PDF, Notion)
 
 Open a discussion if you're exploring a larger feature or integration.
 
