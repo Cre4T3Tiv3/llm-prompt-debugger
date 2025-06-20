@@ -1,6 +1,6 @@
 # End-to-End Guide: Using LLM Prompt Debugger
 
-This guide walks you through how to set up and use **LLM Prompt Debugger** — a developer-first UI for testing, tagging, and exporting LLM prompts — with full support for OpenAI, Claude, and Ollama.
+This guide walks you through how to set-up and use **LLM Prompt Debugger**.
 
 ---
 
