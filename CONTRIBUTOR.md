@@ -1,6 +1,6 @@
 # Contributing to LLM Prompt Debugger
 
-Thank you for considering a contribution to **LLM Prompt Debugger**!
+Thank you for considering a contribution to **LLM Prompt Debugger**! This guide will help you get started with contributing to the project.
 
 ---
 
