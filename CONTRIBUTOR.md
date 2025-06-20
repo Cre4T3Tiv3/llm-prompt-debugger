@@ -1,6 +1,6 @@
 # Contributing to LLM Prompt Debugger
 
-👋 Thanks for considering a contribution! **LLM Prompt Debugger** is a developer-first UI for testing, tagging, and exporting LLM prompts — with built-in support for OpenAI, Claude, and Ollama. This guide will help you get started.
+Thank you for considering a contribution to **LLM Prompt Debugger**!
 
 ---
 
