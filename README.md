@@ -24,6 +24,9 @@ A developer-first UI for testing, tagging, and exporting LLM prompts. With built
   <a href="https://github.com/Cre4T3Tiv3/llm-prompt-debugger/stargazers" target="_blank">
     <img src="https://img.shields.io/github/stars/Cre4T3Tiv3/llm-prompt-debugger?style=social" alt="GitHub Stars">
   </a>
+  <a href="#contributing" target="_blank">
+    <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg" alt="Contributions welcome">
+  </a>
 </p>
 
 ---
