@@ -8,9 +8,9 @@ This guide walks you through how to set-up and use **LLM Prompt Debugger**.
 
 Before getting started, ensure the following:
 
-- ✅ Node.js 18 or higher
-- ✅ `pnpm` installed (recommended)
-- ✅ One or more of the following:
+- Node.js 18 or higher
+- `pnpm` installed (recommended)
+- One or more of the following:
   - OpenAI API Key
   - Claude API Key
   - Local Ollama installation (for running `llama3`)
@@ -46,7 +46,7 @@ OPENAI_API_KEY=sk-...
 CLAUDE_API_KEY=sk-ant-...
 ```
 
-> ✅ You can use either or both — or none if only using local models (via Ollama)
+> ℹ️ You can use either or both — or none if only using local models (via Ollama)
 
 ---
 
@@ -90,8 +90,8 @@ This allows you to:
 
 Click the **Export** button to download your prompt history:
 
-- ✅ JSON: structured data for programmatic use
-- ✅ Markdown: grouped by model, time-stamped for easy reading
+- JSON: structured data for programmatic use
+- Markdown: grouped by model, time-stamped for easy reading
 
 ---
 
@@ -135,7 +135,7 @@ Use it to:
 - Build and label prompt datasets
 - Export outputs for benchmarking or documentation
 
-> 🔧 Contributions welcome — check out [`CONTRIBUTOR.md`](../CONTRIBUTOR.md) for more.
+> Contributions welcome — check out [`CONTRIBUTOR.md`](../CONTRIBUTOR.md) for more.
 
 ---
 
