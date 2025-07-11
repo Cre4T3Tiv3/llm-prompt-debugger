@@ -145,6 +145,12 @@ See [`CONTRIBUTOR.md`](./CONTRIBUTOR.md) for setup and guidelines.
 
 ---
 
+## Maintainer
+
+**Built with ❤️ by [@Cre4T3Tiv3](https://github.com/Cre4T3Tiv3) at [ByteStack Labs](https://bytestacklabs.com)**
+
+---
+
 ## License
 
 [`MIT`](./LICENSE) – © 2025 [@Cre4T3Tiv3](https://github.com/Cre4T3Tiv3)
